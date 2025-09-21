@@ -8,3 +8,6 @@
 thebro9981/thebro9981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Featured SQL Project
+- ☕️ Check out the [Coffee Chain Inventory Analytics Database](sql/coffee_chain_inventory) for a sample SQLite schema, seed data, and analysis scripts that address inventory planning and supplier risk for a regional café business.
